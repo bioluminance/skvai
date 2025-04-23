@@ -28,3 +28,6 @@ task.load_data('data.csv')
 # Train and get output
 task.train_and_output('graph')
 ```# skvai
+👨‍💻 Author
+Sivakandasamy K
+SKV AI is developed as part of ongoing ML toolkits to accelerate model prototyping for students and developers.
