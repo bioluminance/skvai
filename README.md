@@ -10,7 +10,7 @@ To install `skvai` package, use pip:
 pip install skvai
 ```
 👨‍💻 Author
-Sivakandasamy K
+Sivakandasamy velumani
 SKV AI is developed as part of ongoing ML toolkits to accelerate model prototyping for students and developers.
 
 ## Features
